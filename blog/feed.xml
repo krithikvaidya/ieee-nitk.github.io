@@ -5,14 +5,14 @@
     <description>A blog documenting random findings and musings of our members</description>
     <link>http://ieee.nitk.ac.in/blog/</link>
     <atom:link href="http://ieee.nitk.ac.in/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 30 Sep 2019 20:01:58 +0530</pubDate>
-    <lastBuildDate>Mon, 30 Sep 2019 20:01:58 +0530</lastBuildDate>
+    <pubDate>Tue, 01 Oct 2019 10:15:49 +0530</pubDate>
+    <lastBuildDate>Tue, 01 Oct 2019 10:15:49 +0530</lastBuildDate>
     <generator>Jekyll v4.0.0</generator>
     
       <item>
         <title>A Comprehensive Guide to Li-Fi</title>
-        <description>&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt; &lt;p&gt;&lt;img src=&quot;/blog/assets/img/a-comprehensive-guide-to-lifi/1.jpeg&quot; alt=&quot;Li-Fi Visual&quot; /&gt;&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Credits: &lt;a href=&quot;https://www.archlighting.com/technology/li-fi-high-speed-communication-via-led-modulation_o&quot;&gt;https://www.archlighting.com/technology/li-fi-high-speed-communication-via-led-modulation_o&lt;/a&gt;&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Wouldn’t it be interesting if we could use our everyday LED bulbs as the transmitters of data for wirelessly accessing the internet, instead of Wi-Fi Routers or Cellular Networks? Li-Fi is a technology that does exactly that. Li-Fi was unveiled by &lt;em&gt;Dr. Harald Haas&lt;/em&gt; in his iconic 2011 TED Talk entitled &lt;a href=&quot;https://www.youtube.com/watch?v=NaoSp4NpkGg&quot;&gt;Wireless data from every light bulb&lt;/a&gt;, where he demonstrated Li-Fi in public for the first time. Li-Fi (which is an acronym for &lt;strong&gt;Light Fidelity&lt;/strong&gt;), is a light-based communication system that is capable of transmitting data at...</description>
-        <pubDate>Mon, 30 Sep 2019 22:33:59 +0530</pubDate>
+        <description>&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt; &lt;p&gt;&lt;img src=&quot;/blog/assets/img/a-comprehensive-guide-to-lifi/1.jpeg&quot; alt=&quot;Li-Fi Visual&quot; /&gt;&lt;/p&gt; &lt;p&gt;Wouldn’t it be interesting if we could use our everyday LED bulbs as the transmitters of data for wirelessly accessing the internet, instead of Wi-Fi Routers or Cellular Networks? Li-Fi is a technology that does exactly that. Li-Fi was unveiled by &lt;em&gt;Dr. Harald Haas&lt;/em&gt; in his iconic 2011 TED Talk entitled &lt;a href=&quot;https://www.youtube.com/watch?v=NaoSp4NpkGg&quot;&gt;Wireless data from every light bulb&lt;/a&gt;, where he demonstrated Li-Fi in public for the first time. Li-Fi (which is an acronym for &lt;strong&gt;Light Fidelity&lt;/strong&gt;), is a light-based communication system that is capable of transmitting data at high speeds over the visible,...</description>
+        <pubDate>Tue, 01 Oct 2019 15:45:04 +0530</pubDate>
         <link>http://ieee.nitk.ac.in/blog/A-Comprehensive-Guide-To-LiFi/</link>
         <guid isPermaLink="true">http://ieee.nitk.ac.in/blog/A-Comprehensive-Guide-To-LiFi/</guid>
         

@@ -2,7 +2,7 @@
 layout: post
 title: "A Comprehensive Guide to Li-Fi"
 author_github: krithikvaidya
-date: 2019-09-30 17:03:59
+date: 2019-10-01 10:15:04
 image: '/assets/img/'
 description: 'An Introduction to Light Fidelity, Its Scope and Its Applications'
 tags:
@@ -16,7 +16,6 @@ github_username: 'krithikvaidya'
 ## Introduction
 
 ![Li-Fi Visual](/blog/assets/img/a-comprehensive-guide-to-lifi/1.jpeg)
-> Credits: [https://www.archlighting.com/technology/li-fi-high-speed-communication-via-led-modulation_o](https://www.archlighting.com/technology/li-fi-high-speed-communication-via-led-modulation_o)
 
 Wouldn't it be interesting if we could use our everyday LED bulbs as the transmitters of data for wirelessly accessing the internet, instead of Wi-Fi Routers or Cellular Networks? Li-Fi is a technology that does exactly that. Li-Fi was unveiled by *Dr. Harald Haas* in his iconic 2011 TED Talk entitled [Wireless data from every light bulb](https://www.youtube.com/watch?v=NaoSp4NpkGg), where he demonstrated Li-Fi in public for the first time. Li-Fi (which is an acronym for **Light Fidelity**), is a light-based communication system that is capable of transmitting data at high speeds over the visible, ultraviolet, and infrared spectrums, in contrast with conventional wireless data communication methods (such as Wi-Fi, 4G, etc.) that use the radio frequency spectrum for data transmission.
 
@@ -146,5 +145,6 @@ Although there’s still a long way to go to make this technology a commercial s
 [https://purelifi.com/lifi-technology/](https://purelifi.com/lifi-technology/)  
 [https://www.archlighting.com/technology/li-fi-high-speed-communication-via-led-modulation_o](https://www.archlighting.com/technology/li-fi-high-speed-communication-via-led-modulation_o)  
 [https://purelifi.com/lifi-misconceptions/](https://purelifi.com/lifi-misconceptions/)  
+[https://www.archlighting.com/technology/li-fi-high-speed-communication-via-led-modulation_o](https://www.archlighting.com/technology/li-fi-high-speed-communication-via-led-modulation_o)
 
 
