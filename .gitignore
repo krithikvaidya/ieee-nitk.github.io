@@ -12,6 +12,6 @@ gyan_src/_drafts/*
 
 .vagrant/*
 
-.jekyll-cache/*
-blog_src/.jekyll-cache/*
+.jekyll-cache/
+blog_src/.jekyll-cache/
 
